@@ -12,6 +12,6 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 - :seedling: Exploring Technical Content Writing.
 
-- :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
+- :zap: In my free time, I solve problems on GeeksforGeeks and scrolling reels in Instagram .
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Aindria-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/aindria-das-8936a2250)
